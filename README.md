@@ -1,10 +1,11 @@
-
 # Crud App
 
 Imagine a versatile tool designed to streamline your project management process—that's exactly what this CRUD (Create, Read, Update, Delete) App is all about. Picture a sleek interface where you can effortlessly create new projects, track their progress, and manage their details with ease. From a simple homepage displaying a neat list of projects, complete with their due dates and current statuses, to functionalities allowing you to edit or remove projects as needed.
 
 Built with the powerful combination of Django and React.js, this app isn't just about functionality—it's a learning experience. Whether you're delving into the basics of project management or exploring the integration of Django and React.js, this app serves as your hands-on guide. So, dive in, explore, and elevate your understanding of project management and web development in one go.
 
+## Preview
+![Preview](./img.png)
 
 ## Demo
 
