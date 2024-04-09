@@ -9,8 +9,8 @@ Built with the powerful combination of Django and React.js, this app isn't just 
 
 ## Demo
 
-link to demo
-(https://screenrec.com/share/4Gw3fsCcKn)
+![](crudapp.gif)
+
 ## Installation
 
 Install my-project with npm
