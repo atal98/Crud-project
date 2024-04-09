@@ -4,9 +4,6 @@ Imagine a versatile tool designed to streamline your project management processâ
 
 Built with the powerful combination of Django and React.js, this app isn't just about functionalityâ€”it's a learning experience. Whether you're delving into the basics of project management or exploring the integration of Django and React.js, this app serves as your hands-on guide. So, dive in, explore, and elevate your understanding of project management and web development in one go.
 
-## Preview
-![Preview](./img.png)
-
 ## Demo
 
 ![](crudapp.gif)
